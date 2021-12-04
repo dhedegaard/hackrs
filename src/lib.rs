@@ -1,1 +1,1 @@
-mod gates;
+pub(crate) mod gates;
